@@ -9,6 +9,9 @@ After the button is clicked, it should no longer be visible and should render th
 The component should use React Hooks.
 </p>
 
+---
+#### Solution:
+
 ```
 // React is loaded and is available as React and ReactDOM
 // imports should NOT be used
