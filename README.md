@@ -31,4 +31,21 @@
 - [Toggle Message](https://github.com/ikramdeveloper/react-coding-challenges/blob/master/toggle-message.md)
 - [Toggle Options Visibility](https://github.com/ikramdeveloper/react-coding-challenges/blob/master/toggle-options-visibility.md)
 
+---
+
+##### Any Suggestion is appreciated
+
+### Author Links
+
+👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
+
+☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdev)
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/ikramdev)
+- [LinkedIn](https://www.linkedin.com/in/ikramdev/)
+- [StackOverflow](https://stackoverflow.com/users/13859212/ikram-ul-haq)
+
+
 
