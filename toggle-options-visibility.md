@@ -5,6 +5,7 @@ The OptionsShower component renders a button and a list of options. Initially, n
 
 Fix the bug.
 </p>
+
 ---
 
 #### Solution:
